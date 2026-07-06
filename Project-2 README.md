@@ -19,3 +19,6 @@ Executive Summary (Problem, Methodology, Findings, Recommendations).
 ## Tools Used
 Microsoft Excel
 
+## Project Deliverables
+https://github.com/GraceKwelle/Decodelabs_tasks/blame/a4071ad87ba150cc5f2c183bfbd3fb578eacd26b/Grace%20Anosike%20DecodeLabs%20Project%202.xlsx
+
