@@ -6,8 +6,11 @@ Transformed 1,200 cleaned e-commerce orders into an interactive, boardroom-ready
 
 ## Key Findings
 -> Total platform revenue achieved a baseline of $1,264,761.96 across all fulfillment categories.
+
 -> Total volume captured exactly 1,200 unique order rows with 6,582 total units sold.
+
 -> Printers and Chairs dominate the product sales mix as the top macro revenue drivers.
+
 -> Slicer implementation allows stakeholder tracking of key metrics by fulfillment status in under 5 seconds.
 
 ## Method
